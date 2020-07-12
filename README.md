@@ -1,2 +1,2 @@
 # lynks
-An application to submit and/or search content on the internet - work in progress
+A software to submit and/or search content on the internet - work in progress
